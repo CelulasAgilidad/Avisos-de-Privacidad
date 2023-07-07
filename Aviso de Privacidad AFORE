@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Visualización de PDF</title>
+  <title>Aviso de Privacidad AFORE</title>
   <style>
     body {
       margin: 0;
@@ -15,6 +15,6 @@
   </style>
 </head>
 <body>
-  <iframe src="ruta-al-archivo.pdf"></iframe>
+  <iframe src="API Candidatos Pruebas AFORE (002).pdf"></iframe>
 </body>
 </html>
